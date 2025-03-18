@@ -1,0 +1,1 @@
+//C++ For döngüsü ile 1-100 arası sayıları ekranda yazdıran C++ Kodları
