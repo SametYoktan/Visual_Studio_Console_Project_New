@@ -1,0 +1,1 @@
+//Girilen yazılı ortalamasını hesaplayarak ortalama 50′ den küçükse Kaldı, değilse Geçti yazdıran C++ kodları
