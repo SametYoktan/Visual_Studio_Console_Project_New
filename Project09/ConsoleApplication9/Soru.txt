@@ -1,0 +1,1 @@
+//1-100 arası çift sayıları listeleyen C++ Kodları
