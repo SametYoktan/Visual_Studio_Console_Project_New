@@ -1,0 +1,1 @@
+//C++ Kullanıcının girdiği sayı 0-100 arasındaysa geçerli, 0-100 arasında değilse Geçersiz sayı yazdıran C++ Kodları
