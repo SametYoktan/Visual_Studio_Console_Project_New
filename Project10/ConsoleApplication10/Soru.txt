@@ -1,0 +1,1 @@
+//For Döngüsü kullanarak kullanıcıdan 5 sayı isteyen ve girilen bu sayıların toplamını ekranda gösteren C++ Kodları
