@@ -1,0 +1,1 @@
+//Klavyeden girilen 2 sayının ortalamasını hesaplayan C++ kodları
