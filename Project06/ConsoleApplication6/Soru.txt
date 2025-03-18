@@ -1,0 +1,1 @@
+//C++ Girilen sayının 3′ e ve 5′ e tam bölünüp bülünmediğini gösteren C++ kodları
