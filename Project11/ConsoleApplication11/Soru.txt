@@ -1,0 +1,1 @@
+//Kullanıcıdan 10 tane sayı alarak bu sayıların ortalamasını gösteren C++ Kodları
