@@ -1,0 +1,1 @@
+1 ile Kullanıcının girdiği sayıya kadar olan sayılar içerisinde bulunan asal sayıları listeleyen C++ Kodları
