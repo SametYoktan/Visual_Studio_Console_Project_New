@@ -1,0 +1,1 @@
+Girilen sayının asal mı? Asal değil mi? bulan C++ Kodları
