@@ -1,0 +1,1 @@
+Klavyeden girilen sayıya kadar olan sayılar içinde tek olanları yazdıran C++ kodları
