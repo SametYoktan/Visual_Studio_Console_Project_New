@@ -1,0 +1,1 @@
+//C++ ile kullanıcının girdiği bir kelimenin karakter sayısını bulan ve ekranda gösteren program
