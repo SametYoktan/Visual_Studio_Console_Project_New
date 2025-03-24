@@ -1,0 +1,1 @@
+//C++ kullanıcının girdiği iki yazılı notunun ortalamasını bulan ve ortalaması 50′ den büyükse GEÇTİ değilse kaldı yazdıran program
